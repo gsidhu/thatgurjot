@@ -48,7 +48,7 @@ copyright = ""            # default: author.name ↓
 
   since = "2020"            # Site creation time          
   # use public git repo url to link lastmod git commit, enableGitInfo should be true.
-  gitRepo = ""
+  gitRepo = "https://github.com/gsidhu/thatgurjot"
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = "G."        # default: the title value    # 默认值: 上面设置的title值

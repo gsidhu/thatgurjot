@@ -45,13 +45,13 @@ You read it everywhere these days. From the draft National Education Policy to o
 
 A simple Google search for ‘learning crisis’ yields over 40,000 results --
 
-{{< img class="center" data-src="/img/1_nAgbdDTIfDwYlI0wJ_Nblw.png" title="Google search with text “‘learning crisis’ india” yielding 41,100 results" alt="Google search results" >}}
+{{< img class="center" data-src="/img/1_nAgbdDTIfDwYlI0wJ_Nblw.jpg" title="Google search with text “‘learning crisis’ india” yielding 41,100 results" alt="Google search results" >}}
 
 In this article, I hope to point out that this is a [manufactured crisis](http://www.india-seminar.com/2018/706/706_anita_rampal.htm). Calling it a ‘learning crisis’ puts the onus of learning on the learner. To use an analogy, this is equivalent to blaming a starving child for being physically weak. What it really is is a state of systemic failure causing learning deprivation.
 
 But you won’t see anyone call it that because that disrupts the deliberately established inequity in society. And who would want to break that?
 
-{{< img class="center" data-src="/img/1_Br1BenKVs525t_bEYPjI5w.png" title="" alt="Is India in a learning crisis?" >}}
+{{< img class="center" data-src="/img/1_Br1BenKVs525t_bEYPjI5w.jpg" title="" alt="Is India in a learning crisis?" >}}
 
 Before we begin, let us establish common ground.
 

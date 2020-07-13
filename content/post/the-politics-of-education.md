@@ -48,7 +48,7 @@ In this article I will extend this to the domain of education. I will provide ex
 
 I will not talk about why the design is this way or what should be done to change it, if at all. _I leave that unto the reader as an exercise._
 
-{{< img class="center" data-src="/img/1__Lq__cBWwfkmtAB49pMRaFlg.png" title="" alt="The politics of education" >}}
+{{< img class="center" data-src="/img/1__Lq__cBWwfkmtAB49pMRaFlg.jpg" title="" alt="The politics of education" >}}
 
 ### The textbooks
 

@@ -46,7 +46,7 @@ Some of these schools are run by the government directly or indirectly, others a
 
 Some of these schools are affiliated to the State Boards of Education (eg. _Punjab School Education Board_ or _Board of High School and Intermediate Education Uttar Pradesh_), others are affiliated to the CBSE, ICSE or IB.
 
-{{< img class="center" data-src="/img/1__jx3nsnQGBOAg1O18X8iIKw.png" title="" alt="One step method to check your privilege" >}}
+{{< img class="center" data-src="/img/1__jx3nsnQGBOAg1O18X8iIKw.jpg" title="" alt="One step method to check your privilege" >}}
 
 How many of these 1.4 million schools do you think are affiliated to CBSE/ICSE/IB?
 
