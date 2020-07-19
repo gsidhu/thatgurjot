@@ -118,7 +118,7 @@ This time I dealt with this differently. I had many more forms than I did the la
 
 Enter, a standalone, quick to load, bare-bones webpage hosted for free on [GitHub Pages](https://pages.github.com/) –
 
-{{< img class="center" data-src="/img/1__xbqCBZ66l3cTL2aml2in9g.jpg" title="Screenshot of the webpage" alt="Screenshot of the webpage" >}}
+{{< img class="center" data-src="/img/1__xbqCBZ66l3cTL2aml2in9g.png" title="Screenshot of the webpage" alt="Screenshot of the webpage" >}}
 
 I put all the forms in a categorised manner on this webpage. Made sure that there was no unnecessary fluff in the code and the links were easy to tap (since nearly 100% of the data was going to be entered from a mobile device). Then I created a simple bit.ly link for this webpage. In fact I made two –
 
@@ -148,17 +148,17 @@ This is the classic debate in education – when you teach a topic do you stay t
 
 In the first part of the project, I made use of stacked bar graphs to represent the data because they could pack a lot of information into a single chart. It served its purpose. Since I was analyzing performance data, I set a color scheme for the four levels of performance that I did not alter throughout the course of the project. This got the users familiar with the color scheme and dismantled one part of their inhibition when looking at data charts.
 
-{{< img class="center" data-src="/img/1__zERsdrJmtcMYHrW8diTjWA.jpg" title="#ae3936, #dfa250, #6a9351, #355887 — You’re welcome" alt="Data colour scheme" >}}
+{{< img class="center" data-src="/img/1__zERsdrJmtcMYHrW8diTjWA.png" title="#ae3936, #dfa250, #6a9351, #355887 — You’re welcome" alt="Data colour scheme" >}}
 
 However, it was brought to my notice that stacked bar graphs have a serious flaw – the components do not all have a common baseline. Akin to a pie chart, this makes it much harder to compare across the segments. (Read [this Smashing Magazine article](https://www.smashingmagazine.com/2017/03/understanding-stacked-bar-charts/) for a well-rounded perspective on stacked bar graphs.)
 
 To mitigate this, in the latter half of the project, the comparison of performance over time was displayed by grouping the data together (A and B; C and D). I replaced the stacked bars with regular bar graphs since I only had two bars now and comparing them across parameters could be done more intuitively.
 
-{{< img class="center" data-src="/img/1__C2AaH38WqyBLDOlmqVW8ig.jpg" title="You could add data values as labels to the bars if your use-case demands it" alt="Bar graph" >}}
+{{< img class="center" data-src="/img/1__C2AaH38WqyBLDOlmqVW8ig.png" title="You could add data values as labels to the bars if your use-case demands it" alt="Bar graph" >}}
 
 In addition, for representing gross averages I used simple line graphics to show the rise or fall of performance over different timestamps.
 
-{{< img class="center" data-src="/img/1__t79qnD5UEM1gs8l4x5MDiA.jpg" title="You could add data values as labels to the bars if your use-case demands it" alt="Line graph" >}}
+{{< img class="center" data-src="/img/1__t79qnD5UEM1gs8l4x5MDiA.png" title="You could add data values as labels to the bars if your use-case demands it" alt="Line graph" >}}
 
 The purpose of displaying these representations here is not to make a claim that this is the ideal representation. The ideal is governed by the context and the use-case. The purpose here is to provide an example representation that is not only easy to understand but also makes setting targets for the future a simpler task.
 

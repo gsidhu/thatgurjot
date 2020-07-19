@@ -95,7 +95,7 @@ Dark room, daintily lit by a single dim tubelight. Pastel blue walls adorn defla
 
 ---
 
-{{< img class="center" data-src="/img/0__WGbAaJvnNbeFBOjK.png" title="Speak inainguhliss!" alt="Courtesy: Pixabay" >}}
+{{< img class="center" data-src="/img/0__WGbAaJvnNbeFBOjK.jpg" title="Speak inainguhliss!" alt="Courtesy: Pixabay" >}}
 
 **Postscript**
 
