@@ -2,7 +2,7 @@
 title: "One Step Method — to check your privilege"
 date: 2020-01-26T06:02:29.386Z
 lastmod: 2020-01-26T06:02:29.386Z
-draft: true
+draft: false
 keywords: []
 description: "India has over 14 lakh schools. How many do you think are affiliated to the CBSE or ICSE?"
 tags: ["education", "sarkari", "schools"]

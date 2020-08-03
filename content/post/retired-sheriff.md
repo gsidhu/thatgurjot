@@ -5,7 +5,7 @@ lastmod: 2015-02-07T17:27:56+05:30
 draft: false
 keywords: []
 description: "This is a piece of flash fiction I'd left incomplete back in June 2013. I found it yesterday and decided to complete it."
-tags: ["writing-prompt", "detective", "mystery"]
+tags: ["writing", "detective", "mystery"]
 categories: ["fiction"]
 author: ""
 

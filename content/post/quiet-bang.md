@@ -2,11 +2,11 @@
 title: "A Quiet Bang"
 date: 2020-07-13T01:54:08+05:30
 lastmod: 2020-07-13T01:54:08+05:30
-draft: true
+draft: false
 keywords: []
 description: "A quiet beginning."
-tags: 
-categories: [meta]
+tags: []
+categories: ["meta"]
 author: "G."
 
 # You can also close(false) or open(true) something for this content.

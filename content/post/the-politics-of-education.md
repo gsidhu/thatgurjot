@@ -2,7 +2,7 @@
 title: "The Politics of Education"
 date: 2020-02-10T15:11:58.195Z
 lastmod: 2020-02-10T15:11:58.195Z
-draft: true
+draft: false
 keywords: []
 description: "In which, we find out that every single component of the school system is political. And that’s why it is so resistant to change."
 tags: ["education", "politics", "power"]

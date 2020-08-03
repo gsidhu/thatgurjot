@@ -2,7 +2,7 @@
 title: "Is India in a Learning Crisis?"
 date: 2020-02-25T09:27:45.460Z
 lastmod: 2020-02-25T09:27:45.460Z
-draft: true
+draft: false
 keywords: []
 description: "Not quite. Calling it that is propaganda that puts the burden on the learner and not the system causing the deprivation of learning."
 tags: ["education", "learning-crisis", "sarkari"]

@@ -2,10 +2,10 @@
 title: "Scraping to Learn"
 date: 2020-07-16T16:07:52+05:30
 lastmod: 2020-07-16T16:07:52+05:30
-draft: true
+draft: false
 keywords: []
 description: "You'll find tons of tutorials about 'learning to scrape the web', but here's a first – **scraping to learn the web**."
-tags: ["web-scraping", "python", "autodidact"]
+tags: ["web-scraping", "python", "autodidact", "technology"]
 categories: ["experiments"]
 author: ""
 

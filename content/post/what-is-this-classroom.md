@@ -2,7 +2,7 @@
 title: "What is this? Classroom."
 date: 2018-10-04T13:37:13.211Z
 lastmod: 2018-10-04T13:37:13.211Z
-draft: true
+draft: false
 keywords: []
 description: "Dark room, daintily lit by a single dim tubelight. Pastel blue walls adorn deflated slogans and grotesquely drawn portraits of gods and saviours."
 tags: ["education", "narration", "sarkari"]
