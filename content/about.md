@@ -41,6 +41,6 @@ sequenceDiagrams:
 ---
 
 <!--more-->
-Neat-o.
+Full stack idiot.
 
 So it goes.

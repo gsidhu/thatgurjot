@@ -13,3 +13,6 @@ $RECYCLE.BIN/
 
 # OSX
 .DS_Store
+
+# Test files
+/content/post/test.md

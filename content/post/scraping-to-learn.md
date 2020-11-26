@@ -47,7 +47,7 @@ I started off by scraping links from Pinboard and Reddit. That gave me a mish-ma
 While the high level process of scraping any website is the same –
 
 > 1. Go to link.
->2. Process raw html. 
+> 2. Process raw html. 
 > 3. Pull relevant tags.
 
 ... each of these websites presented a slightly different learning opportunity. 
