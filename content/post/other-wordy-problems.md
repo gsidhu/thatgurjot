@@ -213,7 +213,7 @@ Is the child still listening to you? Yes? Congratulations. Kids won't pay attent
 
 Getting kids interested in an activity pays off immediately. Maintaining that interest is tough of course but we are here for small victories. 
 
-> **Pro tip:** Combine context with writing and get kids to come up with example problem statements themselves. That way, they build ownership ownership over the task and deepen their understanding of it.
+> **Pro tip:** Combine context with writing and get kids to come up with example problem statements themselves. That way, they build ownership over the task and deepen their understanding of it.
 
 ### 5. Break it down
 

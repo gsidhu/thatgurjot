@@ -65,6 +65,9 @@
 <link rel="stylesheet" href="{{ "/css/" | relURL }}{{ . }}">
 {{ end }}
 
+<!-- Plausible analytics -->
+<script async defer data-domain="thatgurjot.com" src="https://plausible.io/js/plausible.js"></script>
+
 {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
 {{- template "_internal/opengraph.html" . -}}
 {{- template "_internal/google_news.html" . -}}
