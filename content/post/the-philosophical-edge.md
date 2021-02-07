@@ -31,6 +31,7 @@ hideHeaderAndFooter: false
 At what point does a subject become philosophy? Or how to keep satellites from falling out of the sky.
 
 <!--more-->
+---
 
 Ordinary questions like "What does 1 + 1 equal?" are fairly easy to satisfactorily answer without invoking philosophy. 
 
