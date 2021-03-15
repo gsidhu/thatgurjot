@@ -1,7 +1,7 @@
 
 <!-- image -->
 <figure {{ with .Get "class" }}class="{{.}}"{{ end }}>
-    {{ with .Get "link"}}<a href="{{.}}">{{ end }}
+    {{ with .Get "link"}}<a href="{{.}}" rel='noreferrer'>{{ end }}
         <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{ .Get "data-src" }}" {{ if or (.Get "alt") (.Get "caption") }}title="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} {{ with .Get "style" }}style="{{.}}"{{ end }}/>
     {{ if .Get "link"}}</a>{{ end }}
     {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}

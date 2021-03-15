@@ -12,8 +12,8 @@ author: ""
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
 comment: false
-toc: false
-autoCollapseToc: false
+toc: true
+autoCollapseToc: true
 postMetaInFooter: false
 hiddenFromHomePage: false
 # You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
@@ -25,18 +25,6 @@ mathjaxEnableAutoNumber: false
 
 # You unlisted posts you might want not want the header or footer to show
 hideHeaderAndFooter: false
-
-# You can enable or disable out-of-date content warning for individual post.
-# Comment this out to use the global config.
-#enableOutdatedInfoWarning: false
-
-flowchartDiagrams:
-  enable: false
-  options: ""
-
-sequenceDiagrams: 
-  enable: false
-  options: ""
 
 ---
 [Everything is political.](https://en.wikipedia.org/wiki/The_personal_is_political) Even an apolitical stance actually makes a political statement — that you’re privileged or apathetic enough to take such a stance.
@@ -124,9 +112,11 @@ Example:
 1.  Why are children expected to come to school everyday when it is imperative for them to help out at home or in the fields in order for their family to survive?
 2.  Why should everyone get an education when it is the educated people who commit greater crimes than the uneducated ones? An uneducated street urchin would probably steal someone’s car but an educated investment banker will make millions of dollars by avoiding taxes using a shell company.
 
+---
+
 I am sure I missed a lot of things in this list. I particularly did not talk about the administrative/government end of things — that was on purpose.
 
-Please do leave a comment or send me an email (thatgurjot at gmail dotcom) if you’ve got something to add! Or just say hi!
+Please do leave a comment or send me an email (contact at this domain) if you’ve got something to add! Or just say hi!
 
 ## Further Reading
 
