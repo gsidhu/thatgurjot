@@ -8,23 +8,8 @@ description: ""
 tags: []
 categories: []
 author: ""
-
-# You can also close(false) or open(true) something for this content.
-# P.S. comment can only be closed
-comment: false
-toc: false
-autoCollapseToc: false
-postMetaInFooter: false
+layout: "page"
 hiddenFromHomePage: false
-# You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
-contentCopyright: false
-reward: false
-mathjax: false
-mathjaxEnableSingleDollar: false
-mathjaxEnableAutoNumber: false
-
-# You unlisted posts you might want not want the header or footer to show
-hideHeaderAndFooter: false
 
 ---
 Hey. Do you think reading my needless opinions could brighten your day?
@@ -36,9 +21,9 @@ What I have written about so far –
 * [What is my meaningful contribution to society?](https://world.hey.com/gurjot/what-is-my-contribution-to-society-d4f84ebe)
 * [Where is the meadow of no worries?](https://world.hey.com/gurjot/where-is-the-meadow-of-no-worries-9d917f5b)
 
-If this sort of thing interests you...
+If this sort of thing interests you... I also curate articles/videos from my daily web browsing [over here](/goods).
 
-There's a subscribe button at the end of [the newsletter page](https://world.hey.com/gurjot/). You can submit your email to subscribe. I will probably write once a week. If that is too frequent for you I recommend not subscribing. You won't miss out on much.
+There's a subscribe button at the end of the newsletter page. You can submit your email to subscribe. I will probably write once a week. If that is too frequent for you I recommend not subscribing. You won't miss out on much.
 
 Here's the raw link: [https://world.hey.com/gurjot/](https://world.hey.com/gurjot/)
 

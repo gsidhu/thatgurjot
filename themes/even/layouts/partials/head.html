@@ -65,8 +65,11 @@
 <link rel="stylesheet" href="{{ "/css/" | relURL }}{{ . }}">
 {{ end }}
 
+<!-- scrollama -->
+{{ if .Page.Params.scrollama }}{{ .Site.Params.scrollama | safeHTML }}{{ end }}
+
 <!-- jQuery -->
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+{{ .Site.Params.jquery | safeHTML }}
 
 <!-- Analytics -->
 <script data-goatcounter="https://thatgurjot.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

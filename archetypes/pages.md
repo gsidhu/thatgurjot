@@ -9,8 +9,6 @@ tags: []
 categories: []
 author: ""
 hiddenFromHomePage: false
-layout: "single"
+layout: "page"
 
 ---
-
-<!--more-->

@@ -1,0 +1,45 @@
+baseurl: "https://thatgurjot.com"
+languageCode: "en"
+defaultContentLanguage: "en"
+title: "That Gurjot"
+preserveTaxonomyNames: true
+enableRobotsTXT: true
+enableEmoji: true
+theme: "hugo-tania"
+paginate: 5
+
+
+params:
+  author: "Gurjot."
+  titleEmoji: 'G.'
+  socialOptions:
+    email: mailto:contact@thatgurjot.com
+    github: https://github.com/gsidhu
+    twitter: https://twitter.com/thatgurjot
+  uglyURLs: false
+  archivePaginate: 20
+  since: 2015
+
+menu:
+  header:
+    - name: archives
+      url: "/archive"
+      weight: 20
+    - name: about
+      url: "/about"
+      weight: 30
+    - name: newsletter
+      url: "/newsletter"
+      weight: 40
+  footer:
+    - name: RSS
+      url: "/index.xml"
+
+markup:
+  highlight:
+    noClasses: false
+    lineNos: true
+  goldmark:
+    renderer:
+      unsafe: true
+

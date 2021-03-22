@@ -48,7 +48,7 @@ Technology is supposedly the great disrupter. What Uber did to taxis, Airbnb to 
 
 Not so much with education. Education isn't transactional in the sense of exchanging a product or service. Instead it is a spectrum with skewed power relations. And the agency of the exchange is rarely with the user and mostly with the service provider instead. Plus, restriction on education is a classic tool of social oppression. (Ask a minority group near you for details)
 
-Let me rephrase. The users in the case of education are the students and the service provider is the teacher[^1]. Traditionally, the teacher holds much more influence over the learning experience than the learner. And because you're dealing with real humans with real human experiences and needs, the spectrum of education is so vast and muddy that there's no easy way to quantify it for a machine learning model.
+Let me rephrase. The users in the case of education are the students and the service provider is the teacher.[^1] Traditionally, the teacher holds much more influence over the learning experience than the learner. And because you're dealing with real humans with real human experiences and needs, the spectrum of education is so vast and muddy that there's no easy way to quantify it for a machine learning model.
 
 [^1]: It doesn't always have to be a student-teacher pair though. It can often be a teacher-trainer pair or teacher-administrator, or even admin-technologist.
 
@@ -112,7 +112,7 @@ Here's how -
 
 > But the reality is that parents, teachers and perhaps children as well just want to score better in exams and go to top colleges! If we offer them services on logical thinking or social-emotional learning, they wouldn't want it!
 
-Not sure if that's true. One, improving general skills such as rational thinking, SEL or communication can and often do lead to improvement on test scores. In fact, in a lot of cases these general skills are what act as bottlenecks to learning "advanced" concepts. If a student feels hurt and lonely in the class, no wonder they don't do well at integral calculus. Would you rather help improve their mental state or offer an animated explanation of Rolle's theorem? Two, even if you're here just to make a quick buck and don't really care much for morals - isn't reconciling general skills with exam prep an interesting problem to solve from a business perspective? It's like Apple removing the headphone jack from the iPhone and being able to arm-twist the entire industry into following suite. *Come on ye Steve Jobs worshipers I beseech thee!*
+Not sure if that's true. One, improving general skills such as rational thinking, SEL or communication can and often do lead to improvement on test scores. In fact, in a lot of cases these general skills are what act as bottlenecks to learning "advanced" concepts. If a student feels hurt and lonely in the class, no wonder they don't do well at integral calculus. Would you rather help improve their mental state or offer an animated explanation of Rolle's theorem? Two, even if you're here just to make a quick buck and don't really care much for morals - isn't reconciling general skills with exam prep an interesting problem to solve from a business perspective? It's like Apple removing the headphone jack from the iPhone and being able to arm-twist the entire industry into following suit. *Come on ye Steve Jobs worshipers I beseech thee!*
 
 > The market dictates the services being offered. If there is demand for coaching, there will be supply for coaching! 
 
