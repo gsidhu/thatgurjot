@@ -1,0 +1,106 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <style>
+        .opener {
+            display: grid;
+            place-content: center;
+            max-width: 768px;
+            margin: 0 auto;
+        }
+        .options {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr;
+            gap: 0px 0px;
+            grid-template-areas: ". . .";
+        }
+        .btn { 
+            text-align: center;
+            vertical-align: middle;
+            padding: 5px;
+            border-color: #000;
+            border-width: 2px;
+            border-radius: 0;
+            background-color: #fff952;
+            font-family: Mukta;
+            font-size: 1rem;
+        }
+        .smol-card-component {
+            --img-ratio: 3/2;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.35);
+            border-radius: 0.5rem;
+        }
+        article {
+            max-width: 60rem;
+            max-width: calc(100ch - 2rem);
+        }
+    </style>
+
+</head>
+<body>
+    <div class="opener">
+        <p>
+            If you are here I am assuming you went to school. Of the characteristics given below, pick the ones that apply to the school(s) that you went to.
+        </p>
+        <div class="options">
+            <p>Location:</p>
+            <button class="btn">Rural</button>
+            <button class="btn">Urban</button>
+        </div>
+        <div class="options">
+            <p>Board:</p>
+            <button class="btn">CBSE, ICSE, IB</button>
+            <button class="btn">State Board (SSC etc.)</button>
+        </div>
+        <div class="options">
+            <p>Management:</p>
+            <button class="btn">Government</button>
+            <button class="btn">Private</button>
+        </div>
+    </div>
+<div class='map'>
+     
+</div>
+
+<article>
+    <li data-component="" class="smol-card-component">
+        <h3>Card Headline 1</h3>
+        <img src="https://images.unsplash.com/photo-1607274227313-08146c819e6f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=400" alt="">
+        <p>Chocolate cake macaroon tootsie roll pastry gummies.</p>
+        <p>Apple pie jujubes cheesecake ice cream gummies sweet roll lollipop.</p>
+        <a href="https://moderncss.dev">Visit ModernCSS.dev</a>
+    </li>
+</article>
+
+</body>
+<footer>
+    <script>
+    catSchools = ['sub1k', '1to10k', '10to50k', '50to100k', '100to300k']
+    numSchools = {
+        'sub1k': ['LK','CH','DN','AN','PU'],
+        '1to10k': ['LD','SK','GA','NA','AR','MZ','MN','TR','DL'],
+        '10to50k': ['MG','KL','HP','HR','UK','PB','JK','TS','JH'],
+        '50to100k': ['GJ','CG','TN','AP','AS','OD','KA','BH','WB'],
+        '100to300k': ['RJ','MH','MP','UP']
+    }
+    colorsGreen = ['#ffffcc','#c2e699','#78c679','#31a354','#006837']
+    colorsBlue = ["#f0f9e8","#bae4bc","#7bccc4","#43a2ca","#0868ac"]
+    colorsRed = ['#fef0d9','#fdcc8a','#fc8d59','#e34a33','#b30000']
+    colorsGray = ['#f7f7f7','#cccccc','#969696','#636363','#252525']
+    strokewidth = [1.5,1.5,1.5,1.5,3.5]
+    for (var i=0;i<5;i++) {
+        schoolCat = catSchools[i]
+        for (var j=0;j<numSchools[schoolCat].length;j++) {
+            document.getElementById(numSchools[schoolCat][j]).style.fill = colorsGreen[i]
+            document.getElementById(numSchools[schoolCat][j]).style.stroke = "#DDD"
+
+        }
+    }
+    </script>
+</footer>
+</html>

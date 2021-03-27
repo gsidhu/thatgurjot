@@ -1,8 +1,8 @@
 
 <!-- image -->
-<figure {{ with .Get "class" }}class="{{.}}"{{ end }}>
+<figure {{ with .Get "id" }} id="{{.}}"{{ end }} {{ with .Get "class" }}class="{{.}}"{{ end }}>
     {{ with .Get "link"}}<a href="{{.}}" rel='noreferrer'>{{ end }}
-        <img src="{{ .Get "data-src" }}" data-src="{{ .Get "data-src" }}" {{ if or (.Get "alt") (.Get "caption") }}title="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} {{ with .Get "style" }}style="{{.}}"{{ end }}/>
+        <img {{ with .Get "imgid" }} id="{{.}}"{{ end }} src="{{ .Get "data-src" }}" data-src="{{ .Get "data-src" }}" {{ if or (.Get "alt") (.Get "caption") }}title="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} {{ with .Get "style" }}style="{{.}}"{{ end }}/>
     {{ if .Get "link"}}</a>{{ end }}
     {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}
     <figcaption>{{ if isset .Params "title" }}

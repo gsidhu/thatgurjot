@@ -1,0 +1,103 @@
+#scrolly {
+  position: relative;
+  background-color: #f3f3f3;
+  padding: 1rem;
+}
+
+#article-1, #article-2,
+#article-3, #article-4,
+#article-5, #article-6,
+#article-7, #article-8 {
+  position: relative;
+  padding: 0;
+  max-width: 30rem;
+  margin: 0 auto;
+}
+
+.text {
+  position: relative;
+  padding: 0;
+  max-width: 20rem;
+  margin: 0 auto;
+}
+
+#graphic-1 {
+  position: -webkit-sticky;
+  position: sticky;
+  max-width: 100%;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  background-color: #8a8a8a;
+  z-index: 0;
+}
+
+#graphic-2,
+#graphic-3, #graphic-4,
+#graphic-5, #graphic-6,
+#graphic-7, #graphic-8 {
+  position: -webkit-sticky;
+  position: sticky;
+  max-width: 80%;
+  margin: 0 auto;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  background-color: #eee;
+  z-index: 0;
+}
+
+figure p {
+  text-align: center;
+  padding: 1rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-size: 4rem;
+  font-weight: 600;
+  color: #fff;
+}
+
+.step {
+  margin: 0 auto 2rem auto;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.step:last-child {
+  margin-bottom: 0;
+}
+
+.step.is-active p {
+  background-color: goldenrod;
+  color: #3b3b3b;
+}
+
+.step p {
+  text-align: center;
+  padding: 1rem;
+  font-size: 1.5rem;
+  background-color: #3b3b3b;
+}
+
+.fadeInShow {
+  transition: opacity 400ms;
+}
+.fadeInHide {
+  opacity: 0;
+}
+
+.fadeOutShow {
+  transition: 1;
+}
+.fadeOutHide {
+  opacity: 0;
+  transition: opacity 400ms;
+}
+
+.my-8 {
+  margin: 8rem auto;
+}
