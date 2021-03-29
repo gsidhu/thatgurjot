@@ -64,7 +64,7 @@ figure p {
 .step {
   margin: 0 auto 2rem auto;
   color: #fff;
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(0, 0, 0, 0.05);
 }
 
 .step:last-child {
@@ -100,4 +100,13 @@ figure p {
 
 .my-8 {
   margin: 8rem auto;
+}
+
+.mt-8 {
+  margin-top: 8rem;
+}
+
+td {
+  text-align: center;
+  border-right: 1px solid var(--border);
 }

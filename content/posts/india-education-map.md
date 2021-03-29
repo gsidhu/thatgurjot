@@ -26,11 +26,17 @@ Board:
 <button class="btn">CBSE, ICSE, IB</button>
 <button class="btn">State Board (SSC etc.)</button>
 
+---
+
+{{% text-center class="my-8" %}}
+# Part 1 of 2
+{{% /text-center %}}
+
 India has 15,51,000 schools spread across all of its states and union territories. The kind of school(s) that you went to, i.e., English-medium, CBSE school, located in an Urban area, run by a Private management, make up only 0.092% of them.
 
 Yeah. There are literally 1384 schools in India similar to yours.
 
-Shocked? Yes? No? Doesn't matter. I've got some more facts for you. Scroll on! 
+Shocked? Yes? No? Doesn't matter. Have I got some more facts for you though? Scroll on! 
 
 <section id="scrolly-1">
     <figure id="graphic-1" class="">
@@ -126,17 +132,17 @@ Shocked? Yes? No? Doesn't matter. I've got some more facts for you. Scroll on!
             </svg>
     </figure>
     <article id="article-1">
-        <div class="step" data-step="1">
+        <div class="step" data-step="1" data-step-index="1">
         <p>India has 15,51,000 schools in total.<br/><br/>Here's how they are spread across our states and union territories. </p>
         </div>
-        <div class="step" data-step="2">
+        <div class="step" data-step="2" data-step-index="1">
         <p>You can probably tell that there are more schools in states with a greater population. We'll explore this in a minute. But first...</p>
         </div>
     </article>
 </section>
 
 {{% text-center class="my-8" %}}
-#### How does India's number stand against the world?
+## How does India's number stand against the world?
 {{% /text-center %}}
 
 <section id="scrolly-2">
@@ -145,17 +151,17 @@ Shocked? Yes? No? Doesn't matter. I've got some more facts for you. Scroll on!
     </figure> -->
     {{< img id="graphic-2" imgid="img-2" data-src="./world-schools.png" alt="Number of schools in various countries of the world">}}
     <article id="article-2">
-        <div class="step" data-step="3">
+        <div class="step" data-step="3" data-step-index="2">
         <p>India has A LOT of schools.<br/>No other country even comes close.</p>
         </div>
-        <div class="step" data-step="4">
+        <div class="step" data-step="4" data-step-index="2">
         <p>Just these four states have more schools than China and USA <strong><em>combined.</em></strong></p>
         </div>
     </article>
 </section>
 
 {{% text-center class="my-8" %}}
-#### But of course, number of schools alone don't tell the whole picture.
+## But of course, number of schools alone don't tell the whole picture.
 {{% /text-center %}}
 
 <section id="scrolly-3">
@@ -164,17 +170,17 @@ Shocked? Yes? No? Doesn't matter. I've got some more facts for you. Scroll on!
     </figure> -->
     {{< img id="graphic-3" imgid="img-3" data-src="./world-school-density.svg" alt="Number of schools per square kilometre in various countries of the world">}}
     <article id="article-3">
-        <div class="step" data-step="5">
+        <div class="step" data-step="5" data-step-index="3">
         <p>Let's look at how the schools are peppered across the geography of the country.<br/><br/>How many schools per square kilometre have we got?</p>
         </div>
-        <div class="step" data-step="6">
+        <div class="step" data-step="6" data-step-index="3">
         <p>India is still in the lead with 0.5. Everybody else is really far behind. The school density for Australia and USA is practically zero!</p>
         </div>
     </article>
 </section>
 
 {{% text-center class="my-8" %}}
-#### I sense dissatisfaction with this analysis. 
+## I sense dissatisfaction with this analysis. 
 Justifiably so. Australia and USA are huge countries, of course their numbers are so low.
 
 Let's compare with population instead.
@@ -183,17 +189,17 @@ Let's compare with population instead.
 <section id="scrolly-4">
     {{< img id="graphic-4" imgid="img-4" data-src="./world-school-pop.svg" alt="Number of schools per 1000 people in various countries of the world">}}
     <article id="article-4">
-        <div class="step" data-step="7">
+        <div class="step" data-step="7"  data-step-index="4">
         <p>If we take population into account, India still has the most number of schools per thousand people (1.16). Pakistan comes close with 1.09 but everyone else is below 0.5 schools per thousand people.</p>
         </div>
-        <div class="step" data-step="8">
+        <div class="step" data-step="8" data-step-index="4">
         <p>The three OECD countries and China appear to be in agreement that ~0.4 is a good number.</p>
         </div>
     </article>
 </section>
 
 {{% text-center class="my-8" %}}
-#### You're still not pleased, are you?
+## You're still not pleased, are you?
 Comparing this with the entire population isn't a good metric. 
 
 Let's compare it with the population of children instead.
@@ -202,17 +208,17 @@ Let's compare it with the population of children instead.
 <section id="scrolly-5">
     {{< img id="graphic-5" imgid="img-5" data-src="./world-school-youth.svg" alt="Number of schools per 1000 children in various countries of the world">}}
     <article id="article-5">
-        <div class="step" data-step="9">
+        <div class="step" data-step="9" data-step-index="5">
         <p>With a liberal definition of children as population below 20 years of age... What do we have here?</p>
         </div>
-        <div class="step" data-step="10">
+        <div class="step" data-step="10" data-step-index="5">
         <p>Lo and behold, it's the same trend as before. India and Pakistan still lead the pack but the rest seem to be doing somewhat better – 1.5 schools per thousand children is certainly better than 0.4 schools per thousand people.</p>
         </div>
     </article>
 </section>
 
-{{% text-center %}}
-#### What do we learn from this?
+{{% text-center class="my-8" %}}
+## What do we learn from this?
 {{% /text-center %}}
 
 1. India has 15+ lac schools (1.5 million).
@@ -230,14 +236,111 @@ Do you know what that means? There are over 79 places of worship in every 10 squ
 Make what you want of that.
 
 ---
+{{% text-center class="my-8" %}}
+# Part 2 of 2
+{{% /text-center %}}
 
 Moving on... let's engage in some navel gazing. 
 
-The 15+ lac schools in India come in a variety of styles. They vary in their -
-* Location: Could be in a city or in a village
-* Management: Could be run directly by the government, or aided by it, or run by a private trust
-* Board of affiliation: Could be affiliated with CBSE, ICSE, IB, a state board or a bunch of others
+The 15+ lac schools in India come in a variety of styles. Let's look at them one at a time.
 
+{{% text-center class="my-8" %}}
+## Where are the schools located?
+First up, comparing schools in rural areas vs urban areas.
+{{% /text-center %}}
+
+<section id="scrolly-6">
+    {{< img id="graphic-6" imgid="img-6" data-src="./india-location.svg" alt="Comparison of number of urban to rural schools in India">}}
+    </figure>
+    <article id="article-6">
+        <div class="step" data-step="9" data-step-index="6">
+        <p>Of the 15+ lac schools, only 2.5 lac schools are located in urban areas. This means a whopping 84% of India's schools are in rural areas.</p>
+        </div>
+        <div class="step" data-step="10" data-step-index="6">
+        <p>The map shows the ratio of rural to urban schools across India. Barring the UTs of Delhi and Chandigarh, every other state/UT has more rural schools. In fact, for every one urban school in Himachal Pradesh there are 22 rural ones!</p>
+        </div>
+        <div class="step" data-step="11" data-step-index="6">
+        <p>It is important to recognise here that a vast majority of rural schools are run or aided by the government. The State provides crucial last-mile connectivity that is simply not viable for private players.</p>
+        </div>
+        <div class="step" data-step="12" data-step-index="6">
+        <p><strong>ATTENTION:</strong> This is why we need an increased education budget.</p>
+        </div>
+    </article>
+</section>
+
+{{% text-center class="my-8" %}}
+## Who runs these schools?
+{{% /text-center %}}
+
+I make two broad categories here - 
+1. Sarkari: These are the government and aided schools
+2. Non-sarkari: These are mostly private schools along with a few other schools (mostly run by religious organisations such as the Madarsa Board)
+
+<section id="scrolly-7">
+    {{< img id="graphic-7" imgid="img-7" data-src="./india-management.svg" alt="Comparison of number of non-sarkari to sarkari schools in India">}}
+    <article id="article-7">
+        <div class="step" data-step="13" data-step-index="7">
+        <p>The national average is that for every ONE non-sarkari school, there are THREE sarkari schools. There are 45 schools in Lakshadweep and every single one is run directly by the government.</p>
+        </div>
+        <div class="step" data-step="14" data-step-index="7">
+        <p>In UTs of Delhi, Chandigarh and Puducherry, and the states of Uttar Pradesh, Haryana and Rajasthan, the ratio is pretty low. However, in other states like Goa, Odisha and Tripura the ratio is as high as 8 sarkari schools for each non-sarkari one.</p>
+        </div>
+        <div class="step" data-step="15" data-step-index="7">
+        <p>I wasn't lying when I said that a vast majority of schools are run or aided by the government. The State provides free education (and related servies) at a scale that is unimaginable for private players.</p>
+        </div>
+        <div class="step" data-step="16" data-step-index="7">
+        <p><strong>ATTENTION:</strong> This is why we need an increased education budget.</p>
+        </div>
+    </article>
+</section>
+
+{{% text-center class="my-8" %}}
+## Who guides these schools?
+What kind of education are children in these 15+ lac schools getting? 
+{{% /text-center %}}
+
+That comes down largely to the board of affiliation of schools. Each board -
+1. Affiliates the school and issues guidelines related to ... that the school must adhere to
+2. Decides what textbooks the schools have to teach from
+3. Conducts the qualifying exams for Class 10 and Class 12
+
+<section id="scrolly-8">
+    {{< img id="graphic-8" imgid="img-8" data-src="./india-board-table.svg" alt="Comparison of number of schools affiliated to various boards of education in India">}}
+    <article id="article-8">
+        <div class="step" data-step="17" data-step-index="8">
+        <p>There are a bunch of different boards of education across India. You've probably heard of a few of them.</p>
+        </div>
+        <div class="step" data-step="18" data-step-index="8">
+        <p>How many schools are affiliated to them though? Take a guess.<br/><br/>Now scroll to blow your mind.</p>
+        </div>
+        <div class="step" data-step="19" data-step-index="8">
+        <p>Over 90% schools in India are affiliated to state boards.<br/><br/>Who's the <strong>main</strong>stream now?</p>
+        </div>
+        <div class="step" data-step="20" data-step-index="8">
+        <p><strong>ATTENTION:</strong> This is why we need an increased education budget.</p>
+        </div>
+    </article>
+</section>
+
+{{% text-center class="my-8" %}}
+## What do we learn from this?
+{{% /text-center %}}
+
+1. Huge amounts of our population depends on the state for access to education.
+2. The scale at which state education operates is beyond the scope of private players. (Unless they let go of their profitability fetish)
+3. Pay your damned taxes.
+
+{{% text-center class="my-8" %}}
+# Conclusion
+{{% /text-center %}}
+Lorem ipsum.
+
+Oh and, pay your damned taxes.
+
+{{% text-center class="my-8" %}}
+# Methodology
+{{% /text-center %}}
+Lorem ipsum.
 
 <link rel="stylesheet" href="css/scrolly.css">
 <script src="https://unpkg.com/d3@5.9.1/dist/d3.min.js"></script>
