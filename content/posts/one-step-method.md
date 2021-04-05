@@ -8,6 +8,7 @@ description: "India has over 14 lakh schools. How many do you think are affiliat
 tags: ["education", "sarkari", "schools"]
 categories: ["pedagoguey"]
 author: ""
+image: "/img/1__jx3nsnQGBOAg1O18X8iIKw.jpg"
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed

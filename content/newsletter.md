@@ -4,7 +4,7 @@ date: 2021-03-07T21:54:41+05:30
 lastmod: 2021-03-07T21:54:41+05:30
 draft: false
 keywords: []
-description: ""
+description: "Do you think reading my needless opinions could brighten your day? Subscribe to my newsletter."
 tags: []
 categories: []
 author: ""

@@ -8,6 +8,7 @@ description: "Dark room, daintily lit by a single dim tubelight. Pastel blue wal
 tags: ["education", "narration", "sarkari"]
 categories: ["pedagoguey"]
 author: ""
+image: "/img/0__WGbAaJvnNbeFBOjK.jpg"
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed

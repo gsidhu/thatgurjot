@@ -1,5 +1,5 @@
 ---
-title: 'Does Technology "Solve" Education'
+title: 'Does Technology "Solve" Education?'
 date: 2021-03-15T23:47:18+05:30
 lastmod: 2021-03-15T23:47:18+05:30
 draft: false

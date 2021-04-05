@@ -9,6 +9,7 @@ description: "Everything from optimising the UX to using intuitive data visualis
 tags: ["education", "data", "technology"]
 categories: ["pedagoguey"]
 author: ""
+image: "/img/0__FLaV0Un__OcrCiBCr.png"
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed

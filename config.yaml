@@ -12,6 +12,8 @@ paginate: 5
 params:
   author: "Gurjot."
   titleEmoji: 'G.'
+  description: "That Gurjot's digital garden where he rants about education, showcases his projects and fulfills his sense of purpose."
+  ogimage: '/Mysterious-Turban-Man.png'
   socialOptions:
     email: mailto:contact@thatgurjot.com
     github: https://github.com/gsidhu

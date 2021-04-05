@@ -8,6 +8,7 @@ description: "You'll find tons of tutorials about 'learning to scrape the web', 
 tags: ["web-scraping", "python", "autodidact", "technology"]
 categories: ["experiments"]
 author: ""
+image: "/comics-low-res/3.jpg"
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed

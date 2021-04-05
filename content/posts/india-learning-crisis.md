@@ -8,6 +8,7 @@ description: "Not quite. Calling it that is propaganda that puts the burden on t
 tags: ["education", "learning-crisis", "sarkari"]
 categories: ["pedagoguey"]
 author: ""
+image: "/img/1_Br1BenKVs525t_bEYPjI5w.png"
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
@@ -25,18 +26,6 @@ mathjaxEnableAutoNumber: false
 
 # You unlisted posts you might want not want the header or footer to show
 hideHeaderAndFooter: false
-
-# You can enable or disable out-of-date content warning for individual post.
-# Comment this out to use the global config.
-#enableOutdatedInfoWarning: false
-
-flowchartDiagrams:
-  enable: false
-  options: ""
-
-sequenceDiagrams: 
-  enable: false
-  options: ""
 
 ---
 You read it everywhere these days. From the draft National Education Policy to op-eds in national dailies. Everyone seems to be insisting that the country is in a “[learning crisis](https://www.google.com/search?q=%22learning+crisis%22+india)”.

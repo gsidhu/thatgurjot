@@ -8,6 +8,7 @@ description: "In which, we find out that every single component of the school sy
 tags: ["education", "politics", "power"]
 categories: ["pedagoguey"]
 author: ""
+image: "/img/1__Lq__cBWwfkmtAB49pMRaFlg.jpg"
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
