@@ -5,9 +5,10 @@
         <img {{ with .Get "imgid" }} id="{{.}}"{{ end }} src="{{ .Get "data-src" }}" data-src="{{ .Get "data-src" }}" {{ if or (.Get "alt") (.Get "caption") }}title="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} {{ with .Get "style" }}style="{{.}}"{{ end }}/>
     {{ if .Get "link"}}</a>{{ end }}
     {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}
-    <figcaption>{{ if isset .Params "title" }}
+    <figcaption style="text-align: center;">{{ if isset .Params "title" }}
         <h4>{{ .Get "title" }}</h4>{{ end }}
-        {{ if or (.Get "caption") (.Get "attr")}}<p>
+        {{ if or (.Get "caption") (.Get "attr")}}
+        <p>
         {{ .Get "caption" }}
         {{ with .Get "attrlink"}}<a href="{{.}}"> {{ end }}
             {{ .Get "attr" }}

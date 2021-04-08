@@ -37,7 +37,7 @@ After wishing to learn JavaScript for over 8 years, I finally did learn it and [
 
 And so it began. 
 
-{{< img class="center" data-src="/img/buzo.png" title="Buzo" alt="Borker of Secrets" style="width: 25%">}}
+{{< img class="center" data-src="/img/buzo.png" caption="Buzo" alt="Borker of Secrets" style="width: 25%">}}
 
 The project in question is [Buzo.Dog](https://buzo.dog) – a no non-sense internet explorer. There are a few publications that I enjoy reading and Buzo.Dog lets me find a random article from their archives and read it. Think of it as a RSS feed reader but for archives and not latest posts. 
 
@@ -69,7 +69,7 @@ Scraping these sites was a textbook BeautifulSoup (bs4) example. Here are the st
     
     Yeah. Really. 
 
-    {{< img class="center" data-src="/comics-low-res/1.jpg" title="You KISS your mother with that mouth?" alt="I've heard that centre aligned code can sing you to sleep" >}}
+    {{< img class="center" data-src="/comics-low-res/1.jpg" caption="You KISS your mother with that mouth?" alt="I've heard that centre aligned code can sing you to sleep" >}}
     <!-- > screen full of generic garbage tags
     > boss: when I said "Keep it Simple and Stupid", THIS IS NOT WHAT I MEANT -->
 
@@ -118,7 +118,7 @@ This too was fairly similar to Brain Pickings albeit with fewer tag-related prob
 
 The workaround was fairly simple. My crawler pretended to be a user. 
 
-{{< img class="center" data-src="/comics-low-res/2.jpg" title="User agent strings attached" alt="The tophat emoji cracks passwords too" >}}
+{{< img class="center" data-src="/comics-low-res/2.jpg" caption="User agent strings attached" alt="The tophat emoji cracks passwords too" >}}
 
 <!-- > bot: hello  
 > site: ❌no bots allowed ❌  
@@ -161,7 +161,7 @@ How do I go about this? I certainly can't copy the raw HTML from each page becau
 
 I failed with both. Couldn't even set them up. And thus I arrived at the sage reminder – <kbd>everything on the internet is a network request.</kbd>
 
-{{< img class="center" data-src="/comics-low-res/3.jpg" title="Gen Z? More like Lay Z" alt="from watercooler import conversation" >}}
+{{< img class="center" data-src="/comics-low-res/3.jpg" caption="Gen Z? More like Lay Z" alt="from watercooler import conversation" >}}
 <!-- > Man, I wish I could just FTP these notes into my brain.  
 > Do I really have to call her? Can't I just ping her API? -->
 

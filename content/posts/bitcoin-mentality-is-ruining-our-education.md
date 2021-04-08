@@ -15,7 +15,7 @@ image: "img/bitcoin-mentality.png"
 
 Trusting machines is not necessarily better than trusting humans.
 
-{{< img class="center" data-src="/img/bitcoin-mentality.png" title="Clickbait." alt="Me Do Graphic Artistry" >}}
+{{< img class="center" data-src="/img/bitcoin-mentality.png" caption="Clickbait." alt="Me Do Graphic Artistry" >}}
 
 <!--more-->
 
