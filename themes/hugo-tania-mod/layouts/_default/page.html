@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+<div class="container">
+    <article>
+        <header class="article-header">
+            <div class="thumb">
+                <div>
+                    <h1>{{ .Title }}</h1>
+                </div>
+            </div>
+        </header>
+    </article>
+
+    <div class="article-post">
+    {{ .Content }}
+    </div>
+
+    <div class="last-modified">
+        <hr/>
+        <small>Last modified: {{ .Lastmod.Format "Jan 02, 2006" }}</small>
+    </div>
+</div>
+
+</main>
+
+{{ end }}

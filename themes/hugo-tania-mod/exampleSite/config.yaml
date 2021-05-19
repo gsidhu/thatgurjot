@@ -1,0 +1,41 @@
+baseurl: "https://example.com"
+languageCode: "en"
+defaultContentLanguage: "en"
+title: "BUZO"
+preserveTaxonomyNames: true
+enableRobotsTXT: true
+enableEmoji: true
+theme: "hugo-tania-mod"
+
+params:
+  author: "Gurjot."
+  description: "A light-weight theme for a personal website."
+  keywords: ["light-weight", "blog", "dark"]
+  titleEmoji: '🦄'
+  since: 2020
+  socialOptions:
+    github: https://github.com/gsidhu
+    twitter: https://twitter.com/thatgurjot
+  uglyURLs: false
+  scripts:
+    analytics: "<script data-goatcounter='https://theme-thatgurjot.goatcounter.com/count' async src='/js/count.js'></script>"
+
+menu:
+  header:
+    - name: archives
+      url: "/archive"
+      weight: 10  # set order of nav items
+    - name: about
+      url: "/about"
+      weight: 20
+  footer: # disabled by default in layouts > partials > footer.html
+    - name: RSS
+      url: "/index.xml"
+
+markup:
+  highlight:
+    noClasses: false
+    lineNos: true
+  goldmark:
+    renderer:
+      unsafe: true

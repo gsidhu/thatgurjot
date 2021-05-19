@@ -1,0 +1,72 @@
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="theme-color" content="dark">
+    
+    <!-- HTML Meta Tags -->
+    <!-- Page Title -->
+    <title>{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}</title>
+
+    <!-- Page Description -->
+    {{- if .Description -}}
+    {{ $length := len .Description | add -1 -}}
+    <meta name="description" content="{{ .Description | safeHTML }}" />
+    <meta property="og:description" content="{{ .Description | safeHTML }}">
+    <meta name="twitter:description" content="{{ .Description | safeHTML }}">
+    {{- else if .Site.Params.description -}}
+    <meta name="description" content="{{ .Site.Params.description | safeHTML }}" />
+    <meta property="og:description" content="{{ .Site.Params.description | safeHTML }}">
+    <meta name="twitter:description" content="{{ .Site.Params.description | safeHTML }}">
+    {{- end -}}
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://thatgurjot.com">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{.Title }} | That Gurjot">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="thatgurjot.com">
+    <meta property="twitter:url" content="https://thatgurjot.com">
+    <meta name="twitter:title" content="{{.Title }} | That Gurjot">
+
+    {{ with .Params.image }} 
+    <meta itemprop="image" content="{{ . | absURL }}" />
+    <meta property="og:image" content="{{ . | absURL }}" /> 
+    <meta name="twitter:image" content="{{ . | absURL }}" />
+    <meta name="twitter:image:src" content="{{ . | absURL }}" /> 
+    {{ else }}
+    <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> 
+    {{ end }}
+
+    <!-- author, description & keywords  -->
+    <meta name="author" content="{{ if .Params.author }}{{ .Params.author | safeHTML }}{{ else }}{{ .Site.Params.author | safeHTML }}{{ end }}" />
+
+    {{- if .Keywords -}}
+    {{ $length := len .Keywords | add -1 -}}
+    <meta name="keywords" content="{{ range $index, $element := .Keywords }}{{ $element | safeHTML }}{{if ne $index $length }}, {{ end }}{{ end }}" />
+    {{- else if .Site.Params.keywords -}}
+    {{ $length := len .Site.Params.keywords | add -1 -}}
+    <meta name="keywords" content="{{ range $index, $element := .Site.Params.keywords }}{{ $element | safeHTML }}{{if ne $index $length }}, {{ end }}{{ end }}" />
+    {{- end }}
+
+    <!-- Site Generator -->
+    <meta name="generator" content="Hugo {{ .Site.Hugo.Version }} with theme hugo-tania-mod" />
+
+    <!-- Favicon and Touch icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
+    <link rel="manifest" href="{{ "manifest.json" | relURL }}">
+    <link rel="mask-icon" href="{{ "safari-pinned-tab.svg" | relURL }}" color="#5bbad5">
+
+    <!-- CSS -->
+    {{ $style := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+</head>
