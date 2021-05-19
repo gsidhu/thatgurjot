@@ -1,8 +1,8 @@
 ---
 title: "India Education Map"
-date: 2021-04-14T12:43:38+05:30
-lastmod: 2021-04-14T12:43:38+05:30
-draft: false
+date: 2021-04-11T12:43:38+05:30
+lastmod: 2021-04-11T12:43:38+05:30
+draft: true
 keywords: []
 description: ""
 tags: ["data-viz", "schools", "data"]

@@ -24,15 +24,12 @@ params:
 
 menu:
   header:
-    - name: archives
-      url: "/archive"
-      weight: 20
-    - name: about
+    - name: who
       url: "/about"
-      weight: 30
-    - name: newsletter
-      url: "/newsletter"
-      weight: 40
+      weight: 10
+    - name: what
+      url: "/what"
+      weight: 20
   footer:
     - name: RSS
       url: "/index.xml"

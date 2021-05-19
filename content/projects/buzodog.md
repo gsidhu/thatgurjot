@@ -1,8 +1,8 @@
 ---
 title: "Buzo.Dog"
 date: 2020-06-04
-description: A personal article reader.
-weight: 1
+description: My personal reader.
+weight: 
 link: https://buzo.dog
 repo: https://github.com/gsidhu/buzo.dog
 showrepo: false

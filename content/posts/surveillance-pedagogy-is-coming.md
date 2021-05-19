@@ -20,12 +20,10 @@ Disclaimer: This post is a work of speculation. I have no reasonable source to b
 
 This piece can be seen as a continuation of the previous two articles -
 * [Bitcoin mentality is ruining our education](/posts/bitcoin-mentality-is-ruining-our-education/)
-* [Does Technology "solve" Education?](/posts/does-technology-solve-education/)
+* [Does Technology "Solve" Education?](/posts/does-technology-solve-education/)
 
 ## Surveillance Monitoring
-If you've spent three or more days in the education sector in the last few years, you're likely aware of the data-powered surveillance system that's powering most policies these days. From logging attendance with selfies and school visits with geo-tags to completing courses on DIKSHA and providing data through Google Forms, this juggernaut is moving full throttle and does not show any signs of fatigue.
-
-If you have not, just read the last two articles on this blog.
+If you've spent three or more days in the education sector since 2016, you're likely aware of the data-powered surveillance system that's powering most policies these days. From logging attendance with selfies and school visits with geo-tags to completing courses on DIKSHA and providing data through Google Forms - this juggernaut is speeding ahead full throttle.
 
 In government schools today, data collection for monitoring and evaluation purposes consumes a significant percentage of the workforce's mental bandwidth. [MIS](https://en.wikipedia.org/wiki/Management_information_system) dashboards are aplenty. Every officer has one. Every NGO has four. Every bureaucrat has more. 
 
@@ -38,7 +36,7 @@ Digitisation has its obvious benefits.
 And I can say with fair certainty that most of this data on the dashboards is anonymised as well.[^1]
 [^1]: To the extent that you can still figure out a person's identity if you really want / need to.
 
-So what you get is a monitoring system where the hierarchical top order is able to make their presence felt in the bottom personnel's environs without physically being there. It's like a hologram but even more invisible. The teacher *has to* show up to school because her attendance is marked on a tablet that only works in the school (thanks to geofencing). The academic supervisor *has to* conduct the workshop because she has to later upload the teaching plans developed by the workshop participants. The administrator *has to* disburse funds because the beneficiaries will log their payment status the very next day after the deadline.
+So what you get is a monitoring system where the hierarchical top order is able to make their presence felt in the bottom personnel's environs without physically being there. It's like a hologram but even more invisible. The teacher *has to* show up at school because her attendance is marked on a tablet that only works in the school (thanks to geofencing). The academic supervisor *has to* conduct the workshop because she has to later upload the teaching plans developed by the workshop participants. The administrator *has to* disburse funds because the beneficiaries will log their payment status the very next day after the deadline.
 
 In your infinite mercies, dear reader, allow me the privilege to say that we are successfully in the middle of the stage of **Surveillance Monitoring.**[^2]
 [^2]: I should probably point out that "surveillance" doesn't necessarily imply a panopticon or Big Brother situation. Although the difference between fast and faster is only an err.
@@ -50,14 +48,16 @@ Cue dramatic music.
 We are now about to enter the stage of ...
 
 ## Surveillance Pedagogy
-It's the logical next step, I feel. You already know whether the teacher shows up to school. But that didn't improve student learning levels. So next you'd want to know what the teacher does in the class. You'd like to dictate her speech, her movement, her being. Because knowing that would definitely improve learning levels.[^3]
+It's the logical next step, I feel. You already know whether the teacher shows up to school. But that didn't improve student learning levels. So next you'd want to know what the teacher does in the class. You'd like to dictate her speech, her movement, her being. Because that would definitely improve learning levels.[^3]
 [^3]: LOL
 
 If you think this idea is bizarre and no one would seriously want to do it, well do I have news for you. Everyone already wants it. They are already doing it - on paper. They just haven't figured out yet that they could do it at a more massive scale with technology.
 
 Take a look at teacher resource manuals developed by a state education department or by a partner NGO. <mark>I'd be willing to bet that 9 out of 10 teaching manuals will contain performance scripts and not pedagogical advice.</mark>
 
-Teachers definitely need to upgrade their pedagogical techniques. A vast majority of them still stick to the 'chalk and talk' method because that is what they know and are comfortable with. That is also what works given the realities of the examination system. But just because it works doesn't mean it works for everyone. Children are falling through the gaping holes of the educational sieve having spent years in school but learned little. Those that don't conform to the teacher or the system's 'normal' standard come out with bruised egos and lackluster confidence. There is definite room for improvement. A shift towards contemporary understanding of effective pedagogy is needed.
+Teachers definitely need to upgrade their pedagogical techniques. A vast majority of them still stick to the 'chalk and talk' method because that is what they know and are comfortable with. That is also what works given the realities of the examination system. But just because it works doesn't mean it works for everyone. Children are falling through the gaping holes of the educational sieve having spent years in school but learned little. Those that don't conform to the teacher or the system's 'normal' standard come out with bruised egos and lackluster confidence. 
+
+There is definite room for improvement.
 
 Unfortunately, the good educationist people (of whom I am a colleague) tend to support this transition by literally spelling out a minute-by-minute script for the teachers. Under the guise of lesson plans you get a document that tells the teacher exactly how to seat their students, where to stand and what to speak. 
 
@@ -65,7 +65,7 @@ It's like a recipe book for teaching. You write a book like this and you feel li
 
 I can't believe I have to say this. 
 
-Students are human beings. They have moods. They have desires. They have plans. They do not necessarily comply to your instructions. If you force compliance their state of being changes.[^4]
+Students are human beings. They have moods. They have desires. They have plans. They do not necessarily comply with your instructions. If you force compliance their state of being changes.[^4]
 [^4]: For my fellow physics grads in the house: students are like a quantum state, amirite?
 
 You get what I mean?
@@ -74,18 +74,16 @@ Yes, the recipe book for teaching is a fantastic idea and will likely work for s
 
 > The recipes shared in this book are informed by years of firsthand experience of the author and are certified to be of excellent quality. Please note however that while you use the recipe some of the ingredients might have to go to the bathroom in the middle of the stew and certain others might not be in the mood to be boiled at all, and sometimes the burner could give up in the middle of the process. But otherwise the recipes are great. Enjoy!
 
-How anyone expects these teaching recipes to work is beyond my understanding.
-
 I get that offering these recipes as examples holds demonstrative value. Of course, give recipes as demos by all means. 
 
-But that's not how these recipe books are implemented, are they? The teacher is supposed to follow the book to the T. She is made to believe that the performance of her students is lackluster because she didn't follow the script properly. The spot checks are also all about how effectively is the teacher following the script. 
+But that's not how these recipe books are implemented, are they? The teacher is supposed to follow the book to the T. She is made to believe that the performance of her students is lackluster because she didn't follow the script properly.
 
-And now let's bring the steamroller that is technology into the picture. An astute reader can probably already see where I am going with the surveillance pedagogy slogan.
+And now let's bring the steamroller that is technology into the picture.
 
 Imagine if you could put these teaching recipes on a smartphone. Imagine if you could connect it with the "smart boards".[^5] There are some clear upsides to it. **Digital is dynamic.** The script can be routinely updated. It can be offered in multiple languages. It can have embedded audio, video and images. It is easier to carry than a 100-page printed manual. **Digital is data.** You can seek faster feedback from the users. You can see which recipes are being used the most. You can which recipes are being used. You can see *whether* the recipes are being used. And lo and behold you can see what the teacher is doing in the class.
 [^5]: Smart boards are white boards that double up as interactive computer screens. They've been all the rage in private schools in India for the last decade. While their utility is dubious, they do hold a strong positive image in public memory.
 
-If you thought this article was going to be about CCTVs in classrooms, jokes on you because that's already been done. Read Anita Rampal's piece on ["Why Delhi School Teachers Are Wary About Increasing Surveillance and Intimidation"](https://thewire.in/education/delhi-government-education-school-dissent-aap). 
+If you thought this article was going to be about CCTVs in classrooms, joke's on you because that's already been done. Read Anita Rampal's piece on ["Why Delhi School Teachers Are Wary About Increasing Surveillance and Intimidation"](https://thewire.in/education/delhi-government-education-school-dissent-aap). 
 
 My understanding of why CCTVs won't be the face of surveillance pedagogy is that CCTVs are overt surveillance devices. Thus, they invite greater resistance. In addition, analysing CCTV footage to reliably understand what the teacher is teaching is a technologically monumental task even for today's tech behemoths.
 
@@ -104,10 +102,14 @@ But you know what? Learning levels probably still won't improve.
 
 Because what actually improves learning is a human connection between the teacher and the student. No app is ever going to manifest that.
 
-## Epilogue
-If you don't already know, I have been working on a teacher resource app called [Chachi](https://chachi.app). Writing this article has left me dazed and confused about my own work. In short - there is absolute merit to such apps; we just have to make sure we don't turn them into data loggers under the pretense of monitoring effectiveness.
+I don't believe that someone is going to set out to accomplish this with a masterplan. This system will get built one step at a time, like all systems before it. And each step will make perfect sense. But the doom will only dawn on us after we have already ruined things. **This has a precedent.** Look at how Facebook started and how it's now become a behaviour monitoring tool.
 
-All this doomsdaying aside, on a pragmatic note, I believe we should recognise what issues teachers will face in effectively transacting this digital curriculum. Everything seems to be moving to remote anyway. Teachers have to incorporate video snippets, Kahoot quizzes and whatnot in their lectures already. As the usage of these resources gets exaggerated, what pedagogical techniques will they have to incorporate to effectively engage their learners?
+In short: there is absolute merit in such apps. We just have to make sure we don't turn them into data loggers under the pretense of monitoring effectiveness.
+
+## Epilogue
+If you don't already know, I have been working on a teacher resource app called [Chachi](https://chachi.app). Writing this article has left me dazed and confused about my own work.
+
+All this doomsdaying aside, on a pragmatic note, I believe we should recognise what issues teachers will face in effectively transacting this digital curriculum. Everything seems to be moving to remote anyway. Teachers have to incorporate video snippets, Kahoot quizzes and whatnot in their lectures already. As the usage of these resources gets accelerated, what pedagogical techniques will they have to incorporate to effectively engage their learners?
 
 What's the best way to use a Khan Academy video in class today?
 
