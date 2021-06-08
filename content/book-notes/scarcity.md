@@ -2,7 +2,7 @@
 title: "Scarcity"
 date: 2020-12-19T12:36:42+05:30
 lastmod: 2021-05-19T12:36:42+05:30
-draft: true
+draft: false
 keywords: []
 description: ""
 tags: []

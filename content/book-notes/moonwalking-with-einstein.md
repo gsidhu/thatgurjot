@@ -2,7 +2,7 @@
 title: "Moonwalking With Einstein"
 date: 2021-05-19T12:44:02+05:30
 lastmod: 2021-05-19T12:44:02+05:30
-draft: true
+draft: false
 keywords: []
 description: ""
 tags: ["memory"]

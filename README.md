@@ -1,7 +1,7 @@
 # thatgurjot
 This repository contains the source code for [my personal website.](https://thatgurjot.com)
 
-The site is powered by [Hugo](https://gohugo.io/) and uses the [Even theme](https://github.com/olOwOlo/hugo-theme-even).
+The site is powered by [Hugo](https://gohugo.io/) and uses the [Hugo Tania Mod theme](https://github.com/gsidhu/hugo-tania-mod/).
 
 --
 

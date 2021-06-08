@@ -2,7 +2,7 @@
 title: "Curated Goods"
 date: 2021-03-07T21:54:41+05:30
 lastmod: 2021-03-07T21:54:41+05:30
-draft: false
+draft: true
 keywords: []
 description: "I spend a significant part of my day online. This page contains links to some of the interesting articles/videos/ideas I come across in my day. Think of it as a curated 'best of Gurjot's web surfing' list."
 tags: []

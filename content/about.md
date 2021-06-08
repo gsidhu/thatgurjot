@@ -30,7 +30,7 @@ As of May 2021, I divide my time across these activities -
 
 **Learning**
 
-* I hack together small projects like [Table Image to Text](https://github.com/gsidhu/table_image_to_text), [Chachi.app](https://chachi.app) and [Buzo.dog](https://buzo.dog) to learn new technologies and create proof of concept experiments.
+* I hack together small projects like [Table Image to Text](https://github.com/gsidhu/table_image_to_text), [Chachi.app](https://chachi.app) and [Buzo.xyz](https://buzo.xyz) to learn new technologies and create proof of concept experiments.
 * I do an above-average amount of reading and watching. This information gets turned into [Book Notes](/categories/book-notes), [Distilled Knowledge](/categories/distilled-knowledge), or a blog/newsletter post.
 
 **Writing**

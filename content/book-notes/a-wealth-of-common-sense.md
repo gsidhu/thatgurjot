@@ -2,7 +2,7 @@
 title: "A Wealth of Common Sense"
 date: 2020-09-22T13:06:26+05:30
 lastmod: 2021-05-19T13:06:26+05:30
-draft: true
+draft: false
 keywords: []
 description: ""
 tags: []

@@ -2,7 +2,7 @@
 title: "Struggle to Recall"
 date: 2021-05-19T18:07:19+05:30
 lastmod: 2021-05-19T18:07:19+05:30
-draft: true
+draft: false
 keywords: []
 description: ""
 tags: []
