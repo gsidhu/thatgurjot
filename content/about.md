@@ -1,7 +1,7 @@
 ---
 title: "Who is Gurjot?"
 date: 2020-07-13T02:18:41+05:30
-lastmod: 2021-05-19T21:32:41+05:30
+lastmod: 2021-06-20T18:58:41+05:30
 draft: false
 keywords: []
 description: "Who is this Mysterious Turban Man?"
@@ -44,7 +44,7 @@ These days I am learning how to juggle and skateboard.
 
 I think I am a generalist? (As defined in [Range](https://davidepstein.com/the-range/) ([my notes](/book-notes/range/)))
 
-I exist on the internet as thatgurjot. Here's my latest CV.
+I exist on the internet as thatgurjot. Here's my [latest CV](/docs/Gurjot%20Sidhu%20-%20CV%20-%20Education%20Consultant%20-%20June%202021.pdf).
 
 So it goes.
 
